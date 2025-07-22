@@ -10,7 +10,7 @@
     "express-session": "^1.15.6",
     "node-rest-client": "^2.5.0",
     "pug": "^2.0.3",
-    "simple-oauth2": "^1.6.0"
+    "simple-oauth2": "^5.1.0"
   },
   "devDependencies": {},
   "scripts": {

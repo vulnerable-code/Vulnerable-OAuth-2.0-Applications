@@ -4,13 +4,13 @@
   "description": "Damn Vulnerable OAuth Applications - OAuth 2.0 Client - Printing Application",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.4",
     "cookie-parser": "^1.4.3",
-    "express": "^4.16.3",
+    "express": "^4.22.1",
     "express-session": "^1.15.6",
     "node-rest-client": "^2.5.0",
     "pug": "^2.0.3",
-    "simple-oauth2": "^1.6.0"
+    "simple-oauth2": "^5.1.0"
   },
   "devDependencies": {},
   "scripts": {
